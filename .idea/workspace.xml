@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a92829cb-dcf6-4f48-8862-434ed293717d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Deep Learning/03-Recurent_Neural_Networks/01-Language_modeling/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Deep Learning/Breakdown/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/breakdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Deep Learning/Breakdown/breakdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/tf_train_breakout/breakout_model_20190812124344.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/tf_train_breakout/breakout_model_20190812132418.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/tf_train_breakout/breakout_model_20190812132901.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/tf_train_breakout/breakout_model_20190812133350.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/tf_train_breakout/breakout_model_20190812133903.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/tf_train_breakout/run-20190812124343-log/events.out.tfevents.1565613823.MARIE-LOUISE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep Learning/Breakdown/tf_train_breakout/run-20190812132413-log/events.out.tfevents.1565616253.MARIE-LOUISE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask/full_titanic_REST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask/full_titanic_REST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1QekyQEGWofsJbEwSc3P3aJv07K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557467064584" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Jeu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jeu" />
+      <module name="Motus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jeu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a92829cb-dcf6-4f48-8862-434ed293717d" name="Default Changelist" comment="" />
+      <created>1556977363841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556977363841</updated>
+      <workItem from="1556977366387" duration="20262000" />
+      <workItem from="1557003529781" duration="300000" />
+      <workItem from="1557004750305" duration="74000" />
+      <workItem from="1557126495558" duration="165000" />
+      <workItem from="1557139960049" duration="6831000" />
+      <workItem from="1557165008064" duration="510000" />
+      <workItem from="1557235191870" duration="608000" />
+      <workItem from="1557312311080" duration="382000" />
+      <workItem from="1557418313269" duration="5068000" />
+      <workItem from="1557498722475" duration="5000" />
+      <workItem from="1557837441355" duration="63000" />
+      <workItem from="1558025127160" duration="4810000" />
+      <workItem from="1558076890656" duration="917000" />
+      <workItem from="1568138706443" duration="327000" />
+      <workItem from="1568139894752" duration="67000" />
+      <workItem from="1568139980606" duration="86000" />
+      <workItem from="1568140151449" duration="608000" />
+      <workItem from="1568141400205" duration="546000" />
+      <workItem from="1568795967778" duration="601000" />
+      <workItem from="1568974530931" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
